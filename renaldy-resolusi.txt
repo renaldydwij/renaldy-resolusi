@@ -3,3 +3,5 @@ Renaldy RESOLUSI
 - Konsisten belajar bahasa asing
 - Membuat aplikasi Website 
 - Membuat aplikasi Android
+- Membuat aplikasi .Net
+- Membuat aplikasi booking lapangan futsal
