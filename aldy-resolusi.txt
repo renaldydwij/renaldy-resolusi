@@ -1,0 +1,7 @@
+Hallo perkenalkan nama saya Aldy dari Depok. Umur 22 Tahun. Saya lulusan dari jurusan Teknik Informatika di Universitas Gunadarma. 
+
+Resolusi saya :
+- Membuat website dengan framework Code Igniter
+- Membuat website dengan framework Laravel
+- Membuat aplikasi mobile dengan Android Studio
+- Bekerja di bagian Web Programmer dan PHP Programmer
